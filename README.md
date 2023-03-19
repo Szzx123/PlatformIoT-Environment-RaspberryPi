@@ -10,4 +10,4 @@ Django web application part: https://github.com/Szzx123/PlatformIoT-Environment-
 
 Monitoring data and API listening to sensor status in Raspberry Pi part: https://github.com/Szzx123/PlatformIoT-Environment-RaspberryPi
 
-To more information, Refer to this repository : https://github.com/Szzx123/PlatformIoT-Environment-RaspberryPi-Django-AWS-Web
+To more information, Refer to this repository: https://github.com/Szzx123/PlatformIoT-Environment-RaspberryPi-Django-AWS-Web
